@@ -1,4 +1,4 @@
-# BlogMaker
+# Wazobia Rich Text Editor Assessment
 
 Sample text editor
 
