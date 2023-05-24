@@ -1,10 +1,12 @@
-# BlogMaker
+# Wazobia Rich Text Editor Assessment
 
 Sample text editor
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm start`
 
 ### `yarn start`
 
